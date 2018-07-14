@@ -1,0 +1,5 @@
+# 忽略 /.idea下的所有文件
+.idea
+
+# 忽略 /java-11.iml
+java-11.iml
