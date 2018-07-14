@@ -18,7 +18,9 @@ public class Paixu {
             }
         }
         System.out.print("之后的顺序是：");
-        for (int i = 0 ;i< a1.length;i++){
+        for (int i
+
+             = 0 ;i< a1.length;i++){
             System.out.print(a1[i]+"\t");
         }
         System.out.println();
